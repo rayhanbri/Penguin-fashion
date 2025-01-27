@@ -1,0 +1,127 @@
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+
+
+Tailwind.css.
+
+Explore the website....
+
+1.Head er modde tail wind er script boshai dilam
+ 
+Claass 2---
+
+Docs er laste typography. 
+Font size*--
+
+New section//. text-5xl  this is a large taxt
+.Text-3xl//just tail wind theke class ene bosabho. 
+
+Text color.  Text align.  Background.
+Gradiant. Border radious.
+
+Classs------3
+Width. 
+
+H2. P lorem20 
+Responsive width. 
+
+1/4 4 bagher 1 bagh. 
+Height.
+Overflow
+Class er modde coma dewa jabe nah. 
+Spacing.
+Margin
+Margrin auto.mx auto
+Padding
+Space between.
+
+X horizontal.
+Y vertical.
+
+Calsss--04.
+Mobile fast 
+Desktop past. 
+
+Core concept. Responaive design. 
+
+New section. bg.  Medium. md:bg
+lg
+
+Section 
+H3
+Div  border, twxt font,roundedlg w-24,h-32
+div item 1
+
+Alt shif mere 4 ta banabo 1,2,3,4
+
+Father div mid flex justify betweemn. 
+Fathee heit.  Border.mar 8px 
+Display
+
+
+Class---05
+
+Hr
+
+Section
+H3  Grid Grid.
+Div
+.bg-pink-30 border border-3 rounded-md
+
+Div
+Div diye BOX NIBO 24 TA gird,  column,
+X-Y use korbo.
+Responsive korbo, md, lg,sm, colspan use korobo, row-span,
+
+Class---06/////// project
+
+Git hub--- penguin-fashion-resources
+Clone
+
+
+
+Main 
+Footer 
+Nav banai fele rakbho
+
+1212.header bg-[#codehexa code] pl-4
+
+Aghe banner in header. 
+
+Div  md:items-center
+Div image----
+
+
+
+3.button.  ,px,pypadding, inline 
+ 
+
+
+4.extension;-Tailwind CSS IntelliSense
+
+5.index.html er shathe tailwind.config.js//
+13 minit/// website theke copy kore ene boshai dhibho/// 
+
+
+
+Women jacket........ 
+margin-y title theke
+
+
+
+1.main section margin-x- margin auto) 
+main div take p-5 border-4 rounded-3xl,
+Sapcs-y-4//?/ eigula card container k martesi. drop shadow lg
+
+2.h3 (text-5xl, uppercase, text-[ ],font bebas,
+font blod.
+
+Img rounded-3xl p-5 bg-[ ]
+
+3.button. Dispalay flex marbo justify batween
+Section sesh
+
+
+Shob jacket k grid kore dhibio.
